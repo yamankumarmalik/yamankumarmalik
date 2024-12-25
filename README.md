@@ -1,6 +1,6 @@
 # Hi, I'm Yaman Kumar Malik 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;Exploring+tech+world;)
 
 ## About Me
 Exploring the tech workld.
