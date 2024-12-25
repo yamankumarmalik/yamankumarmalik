@@ -1,9 +1,9 @@
 # Hi, I'm Yaman Kumar Malik 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;Exploring+tech+world;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;Exploring+the+tech+world;)
 
 ## About Me
-Exploring the tech workld.
+Exploring the tech world.
 
 ## Skills
 - Programming Languages: JavaScript, Java
