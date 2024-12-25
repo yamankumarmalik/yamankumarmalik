@@ -2,10 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer)
 
-![Header](https://raw.githubusercontent.com/yamankumarmalik/yamankumarmalik/main/header.png)
-
 ## About Me
-I'm a passionate developer who loves to explore new technologies and contribute to open source projects.
+Exploring the tech workld.
 
 ## Skills
 - Programming Languages: JavaScript, Java
